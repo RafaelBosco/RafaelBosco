@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafaelBosco
 - 👀 I’m interested in learning and getting better at coding
-- 🌱 I’m currently learning JavaScript, HMTL, CSS and some frameworks
+- 🌱 I’m currently learning Data Science, ML, AI and some frameworks
 - 💞️ I’m looking to collaborate on the community and also on everything that I can to help another
 - 📫 How to reach me rafa.boscoo@gmail.com
 
